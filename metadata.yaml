@@ -1,0 +1,33 @@
+_repo: Thankful-Rest_12998
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Swan, Annie S. (Annie Shepherd)
+    aliases:
+    - Burnett-Smith, A. (Annie)
+    - Lyall, David
+    birthdate: 1859
+    deathdate: 1943
+    gutenberg_agent_id: '4770'
+    url: http://www.gutenberg.org/2009/agents/4770
+    wikipedia: http://www.slainte.org.uk/scotauth/swanadsw.htm
+description: ''
+gutenberg_issued: '2004-07-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '12998'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Christian life -- Juvenile fiction'
+- !lcsh 'Aunts -- Juvenile fiction'
+- !lcsh 'Brothers and sisters -- Juvenile fiction'
+- !lcsh 'Orphans -- Juvenile fiction'
+- !lcsh 'Connecticut -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Friendship -- Juvenile fiction'
+- GITenberg
+title: Thankful Rest
+url: http://www.gutenberg.org/ebooks/12998
